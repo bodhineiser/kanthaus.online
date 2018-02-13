@@ -57,6 +57,7 @@ Nach unserer Vision versuchen wir Dinge wiederzuverwenden, die anderweitig nicht
 - Netzwerkkabel (Verlegekabel, mindestens Cat5)
 - Telefonkabel (J-2Y(St)Y oder J-YY, 4 oder 8 Adern)
 - professionelle Wlan-Accesspoints (802.11ac, Ubiquiti/Cisco oder moderne, von LEDE unterstützte Hardware wie TPLink RE450 oder ähnliche)
+- Nussknacker (gern viele)
 
 ## Gern gesehen
 
